@@ -1,0 +1,2 @@
+# myDir
+its for learnig 
